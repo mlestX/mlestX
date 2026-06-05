@@ -1,16 +1,24 @@
-## Hi there 👋
+ # mlestX
 
-<!--
-**mlestX/mlestX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  > code / noise / rebuild
 
-Here are some ideas to get you started:
+  I make things with rough edges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Small tools.
+  Dark screens.
+  Broken ideas turned useful.
+
+  ## now
+
+  - learning by building
+  - making web stuff
+  - automating boring things
+  - breaking things until they make sense
+
+  ## mood
+
+  ```txt
+  build fast
+  break quiet
+  fix ugly
+  ship anyway
