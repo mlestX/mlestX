@@ -1,52 +1,80 @@
-<div align="center">
+　<div align="center">
 
-# mlestX
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,40:1f2937,100:111827&height=190&section=header&text=mlestX&fontSize=42&fontColor=f9fafb&animation=fadeIn&desc=ideas%20/%20ai%20/%20web%20/%20curiosity&descAlignY=68" />
 
-### AI / web / systems / noise
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,45:3f0f12,100:111111&height=170&section=header&text=ROUGH%20IDEAS%20ONLY&fontColor=e7e5e4&fontSize=34&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=E5E7EB&center=true&vCenter=true&width=700&lines=Building+small+things+from+messy+ideas;Interested+in+AI%2C+consciousness%2C+web%2C+and+systems;Still+learning%2C+still+making%2C+still+curious" />
 
 </div>
 
 ---
 
-## about
+## about me
 
-I make small tools, pages, and experiments.
+Hi, I'm **mlestX**.
 
-Most of my interests sit somewhere between  
-**machine learning**, **brain-computer interfaces**, **web systems**, and **security**.
+I’m a student who likes building things from ideas.  
+My main interests are **AI, machine learning, web development, systems, and brain-computer interfaces**.
 
-I like rough ideas that can become working prototypes.  
-Messy thoughts are fine. Shipping something real is better.
+But I’m not only into tech.
+
+I’m also interested in:
+
+- how people think and feel
+- consciousness and philosophy
+- learning, writing, and expressing ideas
+- finance / markets / decision-making
+- turning vague thoughts into real projects
+
+I like making things that are still a little rough,  
+but honest, useful, and real.
 
 ---
 
-## now
+## what I'm doing now
 
-- studying computer science and network systems
-- learning machine learning by building small experiments
-- working with Python, Java, C++, HTML/CSS, PHP, and JavaScript
-- exploring reinforcement learning, brain information processing, and artificial consciousness
-- turning notes, assignments, and ideas into usable code
+- studying computer science and network-related topics
+- learning machine learning through small experiments
+- building with **Python / Java / C++ / HTML / CSS / JavaScript / PHP**
+- exploring topics like **reinforcement learning**, **brain information**, and **artificial consciousness**
+- trying to make ideas understandable even for people outside tech
 
 ---
 
-## interests
+## beyond tech
+
+<div align="center">
+
+![](https://img.shields.io/badge/AI-curious-111827?style=for-the-badge)
+![](https://img.shields.io/badge/Philosophy-thinking-1f2937?style=for-the-badge)
+![](https://img.shields.io/badge/Writing-learning-374151?style=for-the-badge)
+![](https://img.shields.io/badge/Finance-watching-4b5563?style=for-the-badge)
+![](https://img.shields.io/badge/Design-minimal-6b7280?style=for-the-badge)
+![](https://img.shields.io/badge/Ideas-too_many-9ca3af?style=for-the-badge)
+
+</div>
+
+I’m especially drawn to questions like:
+
+- Can intelligence be built?
+- Can consciousness be modeled?
+- How do humans make decisions?
+- How can technology become more human?
+
+---
+
+## my style
 
 ```txt
-machine learning
-reinforcement learning
-brain-computer interface
-artificial consciousness
-web development
-network / security
-automation
+learn deeply
+build honestly
+think widely
+stay curious
+ship anyway
 ```
 
 ---
 
-## stack
+## tech stack
 
 <div align="center">
 
@@ -56,53 +84,44 @@ automation
 
 ---
 
-## current focus
+## things I like making
 
-```txt
-build small
-test fast
-break quietly
-fix honestly
-ship anyway
-```
-
----
-
-## projects I want to make
-
-- tools that help with study and research
-- small AI experiments
-- web pages with dark, minimal UI
-- automation scripts for daily tasks
-- systems that connect data, behavior, and decision-making
+- small tools that solve everyday problems
+- AI experiments
+- clean and dark-themed web pages
+- study / research support tools
+- automation scripts
+- projects that mix logic, curiosity, and creativity
 
 ---
 
-## stats
+## github stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mlestX&show_icons=true&theme=dark&hide_border=true&bg_color=090909&title_color=e7e5e4&text_color=a8a29e&icon_color=7f1d1d" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlestX&layout=compact&theme=dark&hide_border=true&bg_color=090909&title_color=e7e5e4&text_color=a8a29e" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mlestX&show_icons=true&theme=transparent&hide_border=true&title_color=f3f4f6&text_color=d1d5db&icon_color=9ca3af" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlestX&layout=compact&theme=transparent&hide_border=true&title_color=f3f4f6&text_color=d1d5db" />
 
 </div>
 
 ---
 
-## mood
+## a short note
 
-```txt
-rough ideas only
-dark screens
-late nights
-half-broken prototypes
-keep building
-```
+This profile is a place for:
+
+- experiments
+- unfinished ideas
+- code I’m learning from
+- projects that might become something bigger later
+
+If you're from outside tech, that's welcome too.  
+I want to build things that make sense to more than just engineers.
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mlestX&style=flat-square&color=7f1d1d" />
+<img src="https://komarev.com/ghpvc/?username=mlestX&style=for-the-badge&color=6b7280" />
 
 </div>
