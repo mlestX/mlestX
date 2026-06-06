@@ -1,123 +1,152 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0f,35:111827,70:1f2937,100:0b0b0f&height=220&section=header&text=mlestX&fontSize=50&fontColor=f9fafb&animation=fadeIn&fontAlignY=38&desc=build%20slow%20dreams%20from%20messy%20ideas&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:111827,65:312e81,100:050505&height=230&section=header&text=mlestX&fontSize=56&fontColor=f9fafb&animation=fadeIn&fontAlignY=37&desc=ideas%20/%20ai%20/%20mind%20/%20web%20/%20night%20thinking&descAlignY=62&descSize=17" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=E5E7EB&center=true&vCenter=true&width=780&lines=AI+%2F+Web+%2F+Systems+%2F+Curiosity;Thinking+about+consciousness%2C+code%2C+and+people;Still+learning.+Still+building.+Still+becoming." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=E5E7EB&center=true&vCenter=true&width=820&lines=turning+messy+ideas+into+something+visible;AI+%2F+web+%2F+systems+%2F+consciousness+%2F+design;still+learning%2C+still+building%2C+still+becoming" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI-curious-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MIND-thinking-1f2937?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WEB-building-312e81?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DESIGN-minimal-4c1d95?style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+## About
+
+</div>
+
+<div align="center">
+
+**mlestX**  
+Student / builder / thinker.
+
+I like making small things from rough ideas.  
+My interests are somewhere between  
+**AI**, **web**, **systems**, **brain-computer interfaces**,  
+and the question of **how people think**.
 
 <br/>
 
-<img src="https://img.shields.io/badge/style-dark%20minimal-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/focus-AI%20%2F%20web%20%2F%20ideas-1f2937?style=for-the-badge" />
-<img src="https://img.shields.io/badge/status-building-374151?style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-### a little about me
-
-</div>
-
-<div align="center">
-
-I’m **mlestX** — a student, builder, and curious mind.  
-I like turning vague thoughts into something visible.
-
-My world is somewhere between  
-**AI**, **machine learning**, **web development**, **systems**,  
-and questions about **consciousness**, **people**, and **how things work**.
-
-Not everything here is polished.  
-That’s the point.
-
-</div>
-
----
-
-<div align="center">
-
-### what i’m into
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI-curious-0f172a?style=flat-square" />
-<img src="https://img.shields.io/badge/Machine%20Learning-learning-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Brain%20%26%20Mind-interested-1f2937?style=flat-square" />
-<img src="https://img.shields.io/badge/Web-clean%20and%20dark-374151?style=flat-square" />
-<img src="https://img.shields.io/badge/Philosophy-thinking-4b5563?style=flat-square" />
-<img src="https://img.shields.io/badge/Finance-watching-6b7280?style=flat-square" />
-<img src="https://img.shields.io/badge/Writing-growing-9ca3af?style=flat-square" />
-
-</div>
+æè¡ã ããããªãã¦ã  
+äººã®èãæ¹ãæè­ãè¨èããã¶ã¤ã³ãéèãç¤¾ä¼ã®åãã«ãèå³ãããã¾ãã
 
 <br/>
 
-```txt
-I like ideas that feel a little impossible.
-Then I try to build the smallest version of them.
-```
+Not perfect.  
+Not finished.  
+But always building.
+
+</div>
 
 ---
 
 <div align="center">
 
-### current vibe
+## What I care about
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/AI-0f172a?style=for-the-badge&labelColor=020617&color=111827" /><br/>
+<sub>learning intelligence by building small experiments</sub>
+</td>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/MIND-1e1b4b?style=for-the-badge&labelColor=020617&color=312e81" /><br/>
+<sub>thinking about consciousness and perception</sub>
+</td>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/WEB-18181b?style=for-the-badge&labelColor=020617&color=27272a" /><br/>
+<sub>making clean dark interfaces</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/SYSTEMS-111827?style=for-the-badge&labelColor=020617&color=1f2937" /><br/>
+<sub>networks, security, automation</sub>
+</td>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/FINANCE-374151?style=for-the-badge&labelColor=020617&color=4b5563" /><br/>
+<sub>markets, risk, decisions</sub>
+</td>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/WORDS-3f3f46?style=for-the-badge&labelColor=020617&color=52525b" /><br/>
+<sub>writing to organize messy thoughts</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## Current mood
 
 </div>
 
 ```txt
-learn deeply
-design simply
-build honestly
-stay curious
+think wide
+build small
+design dark
+learn honestly
 ship anyway
 ```
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:111827,100:312e81&height=2&section=footer" />
+
+</div>
+
 ---
 
 <div align="center">
 
-### tech stack
+## Tech stack
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,php,git,github,vscode,visualstudio,opencv" />
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-learning-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Java-practicing-1f2937?style=flat-square" />
+<img src="https://img.shields.io/badge/C++-systems-312e81?style=flat-square" />
+<img src="https://img.shields.io/badge/Web-dark_UI-4c1d95?style=flat-square" />
+<img src="https://img.shields.io/badge/Security-basics-374151?style=flat-square" />
+
 </div>
 
 ---
 
 <div align="center">
 
-### currently exploring
-
-</div>
-
-- machine learning through small experiments  
-- reinforcement learning and decision-making  
-- brain-computer interface / artificial consciousness  
-- minimal web interfaces with a clean dark look  
-- automation and useful little tools  
-
----
-
-<div align="center">
-
-### i like making
+## Things I want to make
 
 </div>
 
 <div align="center">
 
-| things | energy |
+| idea | vibe |
 |---|---|
-| small tools | practical |
-| AI experiments | curious |
-| web pages | aesthetic |
-| research-inspired ideas | thoughtful |
+| AI experiments | curiosity |
+| study / research tools | practical |
+| web pages | visual |
 | automation scripts | useful |
+| brain Ã machine ideas | future-facing |
+| writing / note systems | personal |
 
 </div>
 
@@ -125,14 +154,20 @@ ship anyway
 
 <div align="center">
 
-### github snapshot
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mlestX&show_icons=true&theme=transparent&hide_border=true&title_color=f9fafb&text_color=d1d5db&icon_color=93c5fd" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlestX&layout=compact&theme=transparent&hide_border=true&title_color=f9fafb&text_color=d1d5db" />
+## GitHub snapshot
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=mlestX&theme=transparent&hide_border=true&ring=e5e7eb&fire=93c5fd&currStreakLabel=f9fafb&sideLabels=d1d5db&dates=9ca3af" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mlestX&show_icons=true&theme=transparent&hide_border=true&title_color=f9fafb&text_color=d1d5db&icon_color=a78bfa" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlestX&layout=compact&theme=transparent&hide_border=true&title_color=f9fafb&text_color=d1d5db" />
+
+<br/><br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=mlestX&theme=transparent&hide_border=true&ring=a78bfa&fire=c4b5fd&currStreakLabel=f9fafb&sideLabels=d1d5db&dates=9ca3af" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mlestX&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -140,13 +175,21 @@ ship anyway
 
 <div align="center">
 
-### note
+## For people from Instagram
 
-This space is for rough ideas, unfinished experiments,  
-and things I’m learning in public.
+<br/>
 
-If you’re from outside tech, welcome.  
-I want to make things that feel understandable, human, and real.
+This is not only a place for code.  
+It is a place for **ideas**, **experiments**, and **things Iâm trying to understand**.
+
+<br/>
+
+å°éçãªã³ã¼ãã ããããªãã¦ã  
+ãä½ãèãã¦ãããããä½ãä½ããã¨ãã¦ãããããä¼ããå ´æã«ãããã§ãã
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=A5B4FC&center=true&vCenter=true&width=780&lines=rough+ideas+are+welcome;unfinished+doesn't+mean+meaningless;small+projects+can+become+something+real" />
 
 </div>
 
@@ -154,23 +197,27 @@ I want to make things that feel understandable, human, and real.
 
 <div align="center">
 
-### moodboard
+## Moodboard
+
+</div>
 
 ```txt
-late nights
 dark screens
-small breakthroughs
+late-night notes
 unfinished drafts
-clean interfaces
+quiet progress
+small tools
 better questions
 ```
 
-</div>
-
-<br/>
+---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mlestX&style=for-the-badge&color=111827" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:111827,65:312e81,100:050505&height=120&section=footer" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=mlestX&style=for-the-badge&color=312e81" />
 
 </div>
