@@ -28,13 +28,14 @@ Student / builder / thinker.
 
 I like making small things from rough ideas.  
 My interests are somewhere between  
-**AI**, **web**, **systems**, **brain-computer interfaces**,  
-and the question of **how people think**.
+**AI**, **machine learning**, **web development**, **systems**,  
+**brain-computer interfaces**, and **how people think**.
 
 <br/>
 
-æè¡ã ããããªãã¦ã  
-äººã®èãæ¹ãæè­ãè¨èããã¶ã¤ã³ãéèãç¤¾ä¼ã®åãã«ãèå³ãããã¾ãã
+Not only tech.  
+I also care about psychology, consciousness, language, design, finance,  
+and the way society changes over time.
 
 <br/>
 
@@ -145,7 +146,7 @@ ship anyway
 | study / research tools | practical |
 | web pages | visual |
 | automation scripts | useful |
-| brain Ã machine ideas | future-facing |
+| brain x machine ideas | future-facing |
 | writing / note systems | personal |
 
 </div>
@@ -165,10 +166,6 @@ ship anyway
 
 <img height="165" src="https://streak-stats.demolab.com?user=mlestX&theme=transparent&hide_border=true&ring=a78bfa&fire=c4b5fd&currStreakLabel=f9fafb&sideLabels=d1d5db&dates=9ca3af" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mlestX&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
-
 </div>
 
 ---
@@ -180,12 +177,12 @@ ship anyway
 <br/>
 
 This is not only a place for code.  
-It is a place for **ideas**, **experiments**, and **things Iâm trying to understand**.
+It is a place for **ideas**, **experiments**, and **things I am trying to understand**.
 
 <br/>
 
-å°éçãªã³ã¼ãã ããããªãã¦ã  
-ãä½ãèãã¦ãããããä½ãä½ããã¨ãã¦ãããããä¼ããå ´æã«ãããã§ãã
+I want this profile to show not only what I code,  
+but also what I think about and what I want to build.
 
 <br/>
 
